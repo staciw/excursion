@@ -1,0 +1,16 @@
+* {
+  background-color: black;
+  font-family: Verdana
+}
+
+.heading {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.top {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
